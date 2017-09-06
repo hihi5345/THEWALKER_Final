@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "113538776659",
+    "firebase_url": "https://chattingapp-7f2eb.firebaseio.com",
+    "project_id": "chattingapp-7f2eb",
+    "storage_bucket": "chattingapp-7f2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113538776659:android:c100f9457436e27b",
+        "android_client_info": {
+          "package_name": "com.example.kimhun.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113538776659-cdfasl0pugb5b5rgst37bk27rmfgndjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXS9JIzpz2uOlMoz0S-4wil32CfGWFri4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

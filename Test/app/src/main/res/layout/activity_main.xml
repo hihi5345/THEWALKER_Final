@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity = "center">
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:orientation = "vertical">
+        <EditText
+            android:id = "@+id/edit_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint = "아 이 디" />
+        <EditText
+            android:id = "@+id/edit_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint = "비 밀 번 호"/>
+    </LinearLayout>
+    <Button
+        android:id = "@+id/btn_login"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:text="로 그 인"
+        android:onClick = "onClick"/>
+
+</LinearLayout>
